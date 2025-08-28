@@ -1,0 +1,1 @@
+Middleware: Il gère le traitement des données d'une requête avant qu'elle arrive à destination.Il peuvent modifier, analyser, intercepter et répondre aux requêtes.
